@@ -1,5 +1,5 @@
 /*
-Integrantes del grupo:
+Integrantes:
 Julian Zapata Rojas
 Brian Steven Cardona Arenas
 Andres Calle Usma
