@@ -1,5 +1,5 @@
 /*
-Trabajo de programación de la unidad 1.
+Trabajo de programación de la unidad #1.
 
 Requisitos de la aplicación:
 
