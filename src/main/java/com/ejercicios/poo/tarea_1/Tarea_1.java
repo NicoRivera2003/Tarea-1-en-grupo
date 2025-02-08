@@ -1,4 +1,10 @@
 /*
+Integrates:
+Julian Zapata Rojas
+Brian Steven Cardona Arenas
+Andres Calle Usma
+Nicolás Acevedo Rivera
+
 Trabajo de programación de la unidad #1.
 
 Requisitos de la aplicación:
