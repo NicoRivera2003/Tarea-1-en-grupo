@@ -1,6 +1,6 @@
 
 package com.ejercicios.poo.tarea_1;
-
+/* Clase Hilo 2: Contador de abecedario */
 public class Hilo2  extends Thread {
     
     public String nombre;

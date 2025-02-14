@@ -27,7 +27,7 @@ package com.ejercicios.poo.tarea_1;
 import java.util.Scanner;
 
 public class Tarea_1 {
-
+    /* Clase main */
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.print("Ingrese un numero para iniciar la cuenta regresiva (solo numeros positivos): ");

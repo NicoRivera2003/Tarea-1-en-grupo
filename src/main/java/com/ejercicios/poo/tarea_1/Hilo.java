@@ -1,6 +1,6 @@
 
 package com.ejercicios.poo.tarea_1;
-
+/* Clase Hilo 1: CUENTA REGRESIVA" */
 public class Hilo extends Thread {
     
     public String nombre;
